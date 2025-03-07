@@ -2,5 +2,9 @@
 name = "contexts"
 version = "0.1.0"
 edition = "2024"
-
-[dependencies]
+description = "Implements a type for treating several hashmaps as one."
+readme = "README.md"
+repository = "https://github.com/stratagyn/contexts"
+license = "MIT OR Apache-2.0"
+keywords = ["chainmap", "chain-map", "hashmap", "map"]
+categories = ["data-structures"]
